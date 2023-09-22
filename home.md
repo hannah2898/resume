@@ -1,5 +1,5 @@
 ## MY RESUME
-[Home](resume/home.md)| Education | Projects | Work Experience
+[Home](resume/home.md) | Education | Projects | Work Experience
 # Hanna Elsa Reni George
 ![hanna-image](_readme/Hanna.jpg)
 
