@@ -1,13 +1,14 @@
 
 
 # Hanna Elsa Reni George
-[Hanna Image](_readme/Hanna (1).jpg)
+![Hanna](https://github.com/hannah2898/resume/assets/43001462/e9ddb411-eb53-49b0-b5d0-314ab6fe7c41)
 Hi I'm Hanna and I am from India. I have a bachelors in Computer Science Engineering and two years of experience as a Software Engineer
 
 ## Education:
 Bachelors in Computer Science Engineering       
 
 ## Projects: 
+
 | Project Name |Descriptions| Links |
 | ------ | ------ |------ |
 | TeachAR |A Virtual Teaching app that allows teachers to display 3D-AR models while teaching different topics| https://github.com/hannah2898/TeachAR.git |
