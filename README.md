@@ -1,7 +1,7 @@
 
 
 # Hanna Elsa Reni George
-[Hanna Image](./Hanna.jpg)
+[Hanna Image](_readme/Hanna (1).jpg)
 Hi I'm Hanna and I am from India. I have a bachelors in Computer Science Engineering and two years of experience as a Software Engineer
 
 ## Education:
