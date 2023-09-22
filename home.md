@@ -1,5 +1,5 @@
 ## MY RESUME
-Home(resume/home.md)|Education|Projects
+[Home](resume/home.md)|Education|Projects
 # Hanna Elsa Reni George
 ![hanna-image](_readme/Hanna.jpg)
 
