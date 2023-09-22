@@ -1,7 +1,7 @@
 
 
 # Hanna Elsa Reni George
-![Hanna](https://github.com/hannah2898/resume/assets/43001462/e9ddb411-eb53-49b0-b5d0-314ab6fe7c41)
+![Hanna Image](_readme/Hanna (1).jpg)
 Hi I'm Hanna and I am from India. I have a bachelors in Computer Science Engineering and two years of experience as a Software Engineer
 
 ## Education:
